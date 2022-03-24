@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.coveros.demo</groupId>
-  <artifactId>helloworld</artifactId>
-  <version>1.1</version>
+  <artifactId>Vinay</artifactId>
+  <version>2.0</version>
   <packaging>jar</packaging>
 
-  <name>Hello World</name>
+  <name>Vinay</name>
   <description>The most basic of Java programs.</description>
   <url>https://www.coveros.com/</url>
   <inceptionYear>2018</inceptionYear>
